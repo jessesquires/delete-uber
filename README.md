@@ -73,6 +73,13 @@ If you are a tech worker, you can use this to determine if you want to work at t
 >
 > The revelation came after an Uber executive floated the idea of running opposition research on the personal lives and families of journalists who are critical of the company.
 
+### [Can We Trust Uber?](https://thoughts.siliconguild.com/can-we-trust-uber-c0e793deda36#.iwt8p4hrd)
+
+> Then, a funny thing happened. One night, a couple of years ago, I was in an Uber SUV in NYC, headed to Penn Station to catch the train to Washington DC when I got a text message from a tech socialite of sorts (I’ll spare her name because Gawker has already parodied her enough), but she’s someone I hardly know, asking me if I was in an Uber car at 33th and 5th (or, something like that). I replied that I was indeed, thinking that she must be in an adjacent car. Looking around, she continued to text with updates of my car’s whereabouts, so much so that I asked the driver if others could see my Uber location profile? “No,” he replied, “that’s not possible.”
+>
+> At that point, it all just started to feel weird, until finally she revealed that she was in Chicago at the launch of Uber Chicago, and that the party featured a screen that showed where in NYC certain “known people” (whatever that means) were currently riding in Uber cabs. After learning this, I expressed my outrage to her that the company would use my information and identity to promote its services without my permission. She told me to calm down, and that it was all a “cool” event and as if I should be honored to have been one of the chosen.
+
+
 ## Legal issues, 'above the law' attitude
 
 ### [A note on our lawsuit against Otto and Uber](https://medium.com/waymo/a-note-on-our-lawsuit-against-otto-and-uber-86f4f98902a1#.3u74yxywy)
