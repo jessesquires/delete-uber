@@ -51,6 +51,28 @@ If you are a tech worker, you can use this to determine if you want to work at t
 
 > Amit Singhal has left his job at Uber as its SVP of engineering because he did not disclose to the car-hailing company that he left Google a year earlier after top executives there informed him of an allegation of sexual harassment from an employee that an internal investigation had found “credible.”
 
+### [Uber CEO Travis Kalanick says the company has hired former Attorney General Eric Holder to probe allegations of sexism](http://www.recode.net/2017/2/20/14677546/uber-ceo-travis-kalanick-eric-holder-memo)
+
+> Uber CEO Travis Kalanick sent a memo to his employees today, announcing a series of moves to quell the growing outrage over serious allegations of sexism and sexual harassment at the car-hailing company.
+>
+> In it, he said he hired outside counsel, led by former U.S. Attorney General Eric Holder, to investigate the charges by a former female engineer and also the wider cultural problems across Uber.
+
+## User privacy (or lack thereof)
+
+### [Uber said it protects you from spying. Security sources say otherwise](https://www.revealnews.org/article/uber-said-it-protects-you-from-spying-security-sources-say-otherwise/)
+
+> For anyone who’s snagged a ride with Uber, Ward Spangenberg has a warning: Your personal information is not safe.
+>
+> Internal Uber employees helped ex-boyfriends stalk their ex-girlfriends and searched for the trip information of celebrities such as Beyoncé, the company’s former forensic investigator said.
+>
+> “Uber’s lack of security regarding its customer data was resulting in Uber employees being able to track high profile politicians, celebrities, and even personal acquaintances of Uber employees, including ex-boyfriends/girlfriends, and ex-spouses,” Spangenberg wrote in a court declaration, signed in October under penalty of perjury.
+
+### [Uber tracking raises privacy concerns](http://www.usatoday.com/story/tech/2014/11/19/uber-privacy-tracking/19285481/)
+
+> Consumers and lawmakers are expressing concern about privacy after Uber said it is investigating one of its executives for allegedly tracking the private travel records of a journalist without her permission.
+>
+> The revelation came after an Uber executive floated the idea of running opposition research on the personal lives and families of journalists who are critical of the company.
+
 ## Legal issues, 'above the law' attitude
 
 ### [A note on our lawsuit against Otto and Uber](https://medium.com/waymo/a-note-on-our-lawsuit-against-otto-and-uber-86f4f98902a1#.3u74yxywy)
