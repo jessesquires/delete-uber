@@ -6,9 +6,9 @@
 
 ### What is this?
 
-These articles show that Uber fosters a toxic corporate culture that is rife with systemic sexism and sexual harassment, among other crude behaviors. 
+These articles show that Uber appears to foster a toxic corporate culture that is rife with systemic sexism and sexual harassment, among other crude behaviors. 
 
-They show Uber's utter disregard for public safety and total disrepect of its drivers, as well as disregard for traditional taxi drivers.
+They show Uber's apparent disregard for public safety and disrepect of its drivers, as well as disregard for traditional taxi drivers.
 
 They call into question the character of CEO Travis Kalanick, who appears tone-deaf, out-of-touch, and either clueless or complacent in his company's abusive culture and practices. CEOs are responsibile for laying the foundation of their company's culture. The buck stops here.
 
@@ -16,7 +16,7 @@ They call into question the character of CEO Travis Kalanick, who appears tone-d
 
 The point of this document is to provide a resource that contains all of this information all in one place. 
 
-This is embarassing for Silicon Valley and shines a light on its worst problems. The tech industry can and should do better. Tech workers must reject this kind of culture. This industry should be a model for progressiveness, not regressive bigotry.
+This is embarassing for Silicon Valley and shines a light on its worst problems. The tech industry can and should do better. Tech workers must reject this kind of culture.
 
 If you are a consumer, you can use this to decide if you still want to support this company or delete your account. **You can [delete your account here](https://help.uber.com/h/24010fe7-7a67-4ee5-9938-c734000b144a).**
 
