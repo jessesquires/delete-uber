@@ -79,7 +79,6 @@ If you are a tech worker, you can use this to determine if you want to work at t
 >
 > At that point, it all just started to feel weird, until finally she revealed that she was in Chicago at the launch of Uber Chicago, and that the party featured a screen that showed where in NYC certain “known people” (whatever that means) were currently riding in Uber cabs. After learning this, I expressed my outrage to her that the company would use my information and identity to promote its services without my permission. She told me to calm down, and that it was all a “cool” event and as if I should be honored to have been one of the chosen.
 
-
 ## Legal issues, 'above the law' attitude
 
 ### [A note on our lawsuit against Otto and Uber](https://medium.com/waymo/a-note-on-our-lawsuit-against-otto-and-uber-86f4f98902a1#.3u74yxywy)
@@ -153,6 +152,12 @@ If you are a tech worker, you can use this to determine if you want to work at t
 ### [In Video, Uber CEO Argues With Driver Over Falling Fares](https://www.bloomberg.com/news/articles/2017-02-28/in-video-uber-ceo-argues-with-driver-over-falling-fares)
 
 > Kamel, 37, has been driving for Uber since 2011 and wants to draw attention to the plight of Uber drivers. The video shows off Kalanick's pugnacious personality and short temper, which may cause some investors to question whether he has the disposition to lead a $69 billion company with a footprint that spans the globe.
+
+## Questionable practices
+
+### [Uber Gave Contractors Burner Phones And Credit Cards To Create Fake Lyft Accounts And Recruit Drivers](https://techcrunch.com/2014/08/26/uber-lyft-operation-slog/)
+
+> Earlier this month, Lyft and Uber got into a war of words over shady recruitment processes and anticompetitive tactics used in the literal “street fight” over drivers in markets that the two compete in. Based on a story in The Verge today, Uber’s recruiting tactics included the systematic use of contractors to request rides and try to lure away the competition’s drivers with fake Lyft accounts.
 
 ## CEO Travis Kalanick
 
