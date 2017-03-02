@@ -147,7 +147,7 @@ If you are a tech worker, you can use this to determine if you want to work at t
 
 ### [Uber CEO argues with a driver over dropping income](https://www.engadget.com/2017/02/28/uber-ceo-argues-with-driver/)
 
-> He disputes that prices on Black in particular are dropping, and quickly gets mad — he claims that people like like Kamel "don't like to take responsibility for their own shit" and are trying to blame others for their own problems.
+> He disputes that prices on Black in particular are dropping, and quickly gets mad — he claims that people like Kamel "don't like to take responsibility for their own shit" and are trying to blame others for their own problems.
 
 ### [In Video, Uber CEO Argues With Driver Over Falling Fares](https://www.bloomberg.com/news/articles/2017-02-28/in-video-uber-ceo-argues-with-driver-over-falling-fares)
 
