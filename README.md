@@ -44,6 +44,10 @@ If you are a tech worker, you can use this to determine if you want to work at t
 
 > My manager refuses to accept any feedback; She told me not to wear a tank top; She sneered at me when I told her about the technical problems of my service; and she has banned me from working from anywhere other than my desk to supposedly “ensure that I am collaborating with the team” — even when the team is not present.
 
+### [Inside Uber’s Aggressive, Unrestrained Workplace Culture](https://www.nytimes.com/2017/02/22/technology/uber-workplace-culture.html)
+
+> Interviews with more than 30 current and former Uber employees, as well as reviews of internal emails, chat logs and tape-recorded meetings, paint a picture of an often unrestrained workplace culture. Among the most egregious accusations from employees, who either witnessed or were subject to incidents and who asked to remain anonymous because of confidentiality agreements and fear of retaliation: One Uber manager groped female co-workers’ breasts at a company retreat in Las Vegas. A director shouted a homophobic slur at a subordinate during a heated confrontation in a meeting. Another manager threatened to beat an underperforming employee’s head in with a baseball bat.
+
 ### [Uber’s SVP of engineering is out after he did not disclose he left Google in a dispute over a sexual harassment allegation](http://www.recode.net/2017/2/27/14745360/amit-singhal-google-uber)
 
 > Amit Singhal has left his job at Uber as its SVP of engineering because he did not disclose to the car-hailing company that he left Google a year earlier after top executives there informed him of an allegation of sexual harassment from an employee that an internal investigation had found “credible.”
