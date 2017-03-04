@@ -39,17 +39,20 @@ If you are a tech worker, you can use this to determine if you want to work at t
 > [...]
 > 
 > Travis is well known to protect high performing team leaders no matter how abusive they are towards their employees.
->
+
+### [Sexism at Uber from female management #UberStory](https://medium.com/@contactkeala/sexism-at-uber-from-female-management-uberstory-238874075bbb#.e40n7nev2)
+
+> My manager refuses to accept any feedback; She told me not to wear a tank top; She sneered at me when I told her about the technical problems of my service; and she has banned me from working from anywhere other than my desk to supposedly “ensure that I am collaborating with the team” — even when the team is not present.
+
+### [Uber’s SVP of engineering is out after he did not disclose he left Google in a dispute over a sexual harassment allegation](http://www.recode.net/2017/2/27/14745360/amit-singhal-google-uber)
+
+> Amit Singhal has left his job at Uber as its SVP of engineering because he did not disclose to the car-hailing company that he left Google a year earlier after top executives there informed him of an allegation of sexual harassment from an employee that an internal investigation had found “credible.”
 
 ### [Uber investigates 'abhorrent' sexism claims](http://www.bbc.com/news/technology-39024445)
 
 > On Sunday evening, Mr Kalanick responded to the allegations.
 >
 > "I have just read Susan Fowler's blog. **It's the first time this has come to my attention** so I have instructed Liane Hornsey, our new Chief Human Resources Officer, to conduct an urgent investigation into these allegations."
-
-### [Uber’s SVP of engineering is out after he did not disclose he left Google in a dispute over a sexual harassment allegation](http://www.recode.net/2017/2/27/14745360/amit-singhal-google-uber)
-
-> Amit Singhal has left his job at Uber as its SVP of engineering because he did not disclose to the car-hailing company that he left Google a year earlier after top executives there informed him of an allegation of sexual harassment from an employee that an internal investigation had found “credible.”
 
 ### [Uber CEO Travis Kalanick says the company has hired former Attorney General Eric Holder to probe allegations of sexism](http://www.recode.net/2017/2/20/14677546/uber-ceo-travis-kalanick-eric-holder-memo)
 
