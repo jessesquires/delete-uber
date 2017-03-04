@@ -62,6 +62,14 @@ If you are a tech worker, you can use this to determine if you want to work at t
 
 ## User privacy (or lack thereof)
 
+### [How Uber Deceives the Authorities Worldwide](https://www.nytimes.com/2017/03/03/technology/uber-greyball-program-evade-authorities.html)
+
+> The program, involving a tool called Greyball, uses data collected from the Uber app and other techniques to identify and circumvent officials who were trying to clamp down on the ride-hailing service. Uber used these methods to evade the authorities in cities like Boston, Paris and Las Vegas, and in countries like Australia, China and South Korea.
+>
+> [...]
+>
+> But unknown to Mr. England and other authorities, some of the digital cars they saw in the app did not represent actual vehicles. And the Uber drivers they were able to hail also quickly canceled. That was because Uber had tagged Mr. England and his colleagues — essentially Greyballing them as city officials — based on data collected from the app and in other ways. The company then served up a fake version of the app, populated with ghost cars, to evade capture.
+
 ### [Uber said it protects you from spying. Security sources say otherwise](https://www.revealnews.org/article/uber-said-it-protects-you-from-spying-security-sources-say-otherwise/)
 
 > For anyone who’s snagged a ride with Uber, Ward Spangenberg has a warning: Your personal information is not safe.
