@@ -2,7 +2,7 @@
 
 *The following is a list of news articles (with excerpts) on Uber and its scandals.*
 
-[#deleteUber](https://twitter.com/search?q=%23deleteuber) / [#uberSurvivor](https://twitter.com/search?q=ubersurvivor) /  [#uberVictims](https://twitter.com/search?q=%23ubervictims)
+[#deleteUber](https://twitter.com/search?q=%23deleteuber) / [#uberSurvivor](https://twitter.com/search?q=ubersurvivor) /  [#uberVictims](https://twitter.com/search?q=%23ubervictims) / [#uberStory](https://twitter.com/search?q=uberstory)
 
 ### What is this?
 
