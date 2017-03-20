@@ -22,7 +22,7 @@ If you are a consumer, you can use this to decide if you still want to support t
 
 If you are a tech worker, you can use this to determine if you want to work at this company. If you are contacted by a recruiter, refer them here to explain why you are not interested in working for Uber.
 
-## Sexism, sexual harassment, 'bro' culture
+## Sexism, sexual harassment, toxic culture
 
 ### [Reflecting On One Very, Very Strange Year At Uber](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber)
 
@@ -63,6 +63,10 @@ If you are a tech worker, you can use this to determine if you want to work at t
 > Uber CEO Travis Kalanick sent a memo to his employees today, announcing a series of moves to quell the growing outrage over serious allegations of sexism and sexual harassment at the car-hailing company.
 >
 > In it, he said he hired outside counsel, led by former U.S. Attorney General Eric Holder, to investigate the charges by a former female engineer and also the wider cultural problems across Uber.
+
+### [Uber president Jeff Jones is quitting, citing differences over ‘beliefs and approach to leadership’](http://www.recode.net/2017/3/19/14976110/uber-president-jeff-jones-quits)
+
+> Jeff Jones, the president of Uber, is quitting the car-hailing company after less than a year. The move by the No. 2 exec, said sources, is directly related to the multiple controversies there, including explosive charges of sexism and sexual harassment.
 
 ## User privacy (or lack thereof)
 
@@ -131,6 +135,10 @@ If you are a tech worker, you can use this to determine if you want to work at t
 > But in multiple emails to the DMV, Anthony Levandowski, vice president at Uber’s Advanced Technologies Group and the company’s top executive in charge of autonomous technology, argued that what it was doing did not meet the legal definition of autonomous vehicle testing, spurring a brain-bending debate over the letter of the law. The debate ended inconclusively, and **Uber ultimately launched its doomed public pilot without ever notifying state regulators of its intentions to invite members of the public into the backseat of its self-driving cars.**
 >
 > “In their minds, they really thought they weren’t autonomous,” Jessica Gonzalez, assistant deputy director of public affairs at the DMV, told The Verge. "But we decide what’s autonomous. And under our regulations, it was."
+
+### [The Uber Bombshell About to Drop](https://danielcompton.net/2017/03/14/uber-bombshell)
+
+> From Waymo’s filings, it seems that they have Levandowski dead to rights on stealing their LiDAR designs. That alone should be enough to bring Uber’s self-driving car program to a halt and cause some big problems for Levandowski. California’s Trade Secrets law is weaker than other states, but if successful, Waymo will be able to seek an injunction, damages, and attorney’s fees. Because all law is securities law, the SEC may also be able to bring a case against Uber (similarly to their case against Theranos).
 
 ## Treatment of taxi drivers
 
