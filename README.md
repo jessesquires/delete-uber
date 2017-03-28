@@ -150,6 +150,14 @@ If you are a tech worker, you can use this to determine if you want to work at t
 
 > From Waymo’s filings, it seems that they have Levandowski dead to rights on stealing their LiDAR designs. That alone should be enough to bring Uber’s self-driving car program to a halt and cause some big problems for Levandowski. California’s Trade Secrets law is weaker than other states, but if successful, Waymo will be able to seek an injunction, damages, and attorney’s fees. Because all law is securities law, the SEC may also be able to bring a case against Uber (similarly to their case against Theranos).
 
+### [Uber Halts Self-Driving Car Fleet After Crash In Arizona](http://www.huffingtonpost.com/entry/uber-self-driving-cars-suspended_us_58d70639e4b03692bea698ee)
+
+> Uber is suspending its entire self-driving car program while it investigates a crash involving one of its vehicles in Tempe, Arizona.
+>
+> The ride-hailing company confirmed the crash after a photo was posted on Twitter showing an Uber SUV Volvo on its side next to another dented car with broken windows.
+>
+> No one was injured, Tempe police told Bloomberg News. The Uber vehicle was not found to be fault, as another car failed to yield the right of way.
+
 ## Treatment of taxi drivers
 
 ### [The scene at JFK as taxi drivers strike following Trump's immigration ban](http://www.usatoday.com/story/news/2017/01/28/taxi-drivers-strike-jfk-airport-following-trumps-immigration-ban/97198818/)
