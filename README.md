@@ -68,6 +68,16 @@ If you are a tech worker, you can use this to determine if you want to work at t
 
 > Jeff Jones, the president of Uber, is quitting the car-hailing company after less than a year. The move by the No. 2 exec, said sources, is directly related to the multiple controversies there, including explosive charges of sexism and sexual harassment.
 
+### [Uber Executives’ Visit To Seoul ‘Escort Bar’ Resulted In HR Complaint](http://daringfireball.net/linked/2017/03/26/uber-seoul)
+
+> Ms. Holzwarth, who described the bar in vivid detail in an interview with The Information, said she and Mr. Kalanick left less than an hour after the men in Uber’s group picked some women to sit with. She doesn’t know what happened after she left.
+>
+> Mr. Michael’s call prompted her to discuss her concerns with Uber’s top public relations executive Rachel Whetstone and Mr. Kalanick, among other people. She described and provided correspondence of those conversations for this story.
+>
+> “I’m not going to lie for them,” she said in an interview with The Information this week. In the interview, she described Mr. Kalanick as “part of a class of privileged men who have been taught they can do whatever they want, and now they can.”
+>
+> She said she wouldn’t have considered speaking publicly had Mr. Michael not attempted to “silence” her.
+
 ## User privacy (or lack thereof)
 
 ### [How Uber Deceives the Authorities Worldwide](https://www.nytimes.com/2017/03/03/technology/uber-greyball-program-evade-authorities.html)
